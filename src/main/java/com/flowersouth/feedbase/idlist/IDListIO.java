@@ -3,7 +3,7 @@ package com.flowersouth.feedbase.idlist;
 import java.util.Collection;
 import java.util.List;
 
-public interface IDLisIO {
+public interface IDListIO {
 
     //read method
     IDTrie readTrie();
